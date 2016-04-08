@@ -1,1 +1,3 @@
-# Python Expirements
+# Python Experiments
+
+A collection of small python programs.

@@ -1,3 +1,10 @@
+''''
+
+-create an nxn grid based on user input
+-check if the grid fits the criteria of a magic square 
+
+'''
+
 import random
 import io
 
